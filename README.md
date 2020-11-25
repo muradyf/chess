@@ -1,2 +1,2 @@
-# chess
-A multiplayer chess game implemented using C# in Unity. Intended to be faster than most other versions.
+# Chess
+A multiplayer chess game implemented using C# in Unity engine, intended to be faster than most other versions. Includes functionalities like piece promotion and castling.
